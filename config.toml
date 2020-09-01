@@ -45,3 +45,5 @@ theme = "dream"
   darkLinkColor = "darkseagreen"
   darkNav = true 
   dark404 = true
+  
+  relativeURLS=true
