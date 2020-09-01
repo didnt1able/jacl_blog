@@ -9,14 +9,14 @@ theme = "dream"
 
 # disqusShortname = ""
 
-# enableRobotsTXT = true
+ enableRobotsTXT = true
 
 [params]
   background = "black"
   # backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
-  author = "Yue Yang"
+  author = "didnt1able"
   # description = ""
   avatar = "/img/avatar.jpg"
   motto = "Motto"
@@ -25,7 +25,7 @@ theme = "dream"
 
   # utterancesRepo = ""
   
-  email = "g1enyy0ung@gmail.com"
+  email = "admin@jacl.tech"
   # twitter = ""
   # facebook = ""
   # instagram = ""
@@ -34,7 +34,7 @@ theme = "dream"
   # stackoverflow = ""
   # codepen = ""
 
-  siteStartYear = 2016
+  siteStartYear = 2020
 
   # favicon = "/favicon.ico"
 
